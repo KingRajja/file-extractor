@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+chardet
+pdfminer.six
+python-docx
+striprtf
